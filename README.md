@@ -12,8 +12,6 @@ A ReactPy-based web application that displays network devices with their status 
 - **PowerShell Integration**: Uses PowerShell scripts for device scanning
 - **Responsive Design**: Bootstrap 5 styling with custom CSS
 
-![Image Alt](https://raw.githubusercontent.com/FierSet/device-manager/refs/heads/main/screenshot/diagram.png)
-
 ## Tech Stack
 
 - **Backend**: FastAPI, Python 3.8+
@@ -23,3 +21,5 @@ A ReactPy-based web application that displays network devices with their status 
 - **Device Scanning**: PowerShell (FastScan script)
 
 ## Project Structure
+
+![Image Alt](https://raw.githubusercontent.com/FierSet/device-manager/refs/heads/main/screenshot/diagram.png)
